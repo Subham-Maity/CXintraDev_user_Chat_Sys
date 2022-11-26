@@ -1,4 +1,4 @@
-# CodeXam Chat System Design for Production
+# CodeXam Internal Developer Chat and User Communication System Design for Production
 
 - Socket IO
 - NextAuth and Google Cloud Console
